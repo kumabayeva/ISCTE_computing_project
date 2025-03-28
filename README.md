@@ -9,15 +9,6 @@ This data science project provides a comprehensive exploratory analysis of Y Com
 - Explored startup success rates, industry distributions, and geographic trends
 - Used Python for data analysis and visualization
 
-## 🔍 Research Questions
-
-The project investigated critical questions about startup dynamics:
-- What percentage of YC startups remain active, get acquired, or shut down?
-- How have YC-funded startups evolved over time?
-- Which industries dominate YC funding?
-- Does team size correlate with startup success?
-- Where are most YC startups headquartered?
-
 ## 📈 Key Findings
 
 ### Startup Outcomes
@@ -30,10 +21,6 @@ The project investigated critical questions about startup dynamics:
 3. Fintech
 4. Education
 5. PropTech & Real Estate
-
-### Geographic Insights
-- Mapped startup headquarters distribution
-- Analyzed growth trends in key tech locations
 
 ## 🛠 Technologies Used
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
@@ -54,27 +41,6 @@ yc-startups-analysis/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8+
-- pandas
-- matplotlib
-- seaborn
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/yc-startups-analysis.git
-
-# Install dependencies
-pip install pandas matplotlib seaborn
-```
-
-## 👤 Author
-**Madina Kumabayeva**
-- 📧 Email: Madina_Kumabayeva@iscte-iul.pt
-- 🎓 Erasmus+ Exchange Student
-- 📚 Course: Computing for Business and Economics
-
-**Made with ❤️ and 🐍 Python**
+## Author
+- 👤 Name: Madina Kumabayeva
+- 📧 Email: m.kumabayeva@gmail.com
